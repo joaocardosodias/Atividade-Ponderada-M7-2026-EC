@@ -1,0 +1,1 @@
+# Atividade-Ponderada-M7-2026-EC
