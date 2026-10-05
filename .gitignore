@@ -1,0 +1,18 @@
+# Segredos
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Artefatos locais de modelo (os oficiais ficam no MinIO)
+*.joblib
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store

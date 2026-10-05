@@ -1,0 +1,7 @@
+.git
+.env
+.venv
+**/__pycache__
+**/*.pyc
+*.md
+data/fetch_data.py
